@@ -1,0 +1,535 @@
+.fundo-h{
+position: absolute;
+width: 115px;
+height: 31px;
+left: 4px;
+top: 115px;
+
+background: #818181;
+border: 3px solid #0093DD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nome-h{
+    position: absolute;
+width: 58px;
+height: 18px;
+left: 25px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 19px;
+line-height: 19px;
+
+color: #ffffff;
+}
+
+.fundo-r{
+    position: absolute;
+width: 115px;
+height: 31px;
+left: 136px;
+top: 115px;
+
+background: #818181;
+border: 3px solid #0093DD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nome-r{
+    position: absolute;
+width: 94px;
+height: 18px;
+left: 1px;
+top: 5px;
+
+font-family: initial;
+font-style: normal;
+font-weight: 900;
+font-size: 19px;
+line-height: 20px;
+
+color: #ffffff;
+}
+
+.fundo-a{
+    position: absolute;
+width: 178px;
+height: 31px;
+left: 267px;
+top: 115px;
+
+background: #818181;
+border: 3px solid #0093DD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nome-a{
+    position: absolute;
+width: 175px;
+height: 18px;
+left: 3px;
+top: 5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 17px;
+line-height: 19px;
+
+color: #ffffff;
+}
+
+.fundo-d{
+    position: absolute;
+width: 115px;
+height: 31px;
+left: 460px;
+top: 115px;
+
+background: #818181;
+border: 3px solid #0093DD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nome-d{
+    position: absolute;
+width: 94px;
+height: 18px;
+left: 10px;
+top: 5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 19px;
+
+color: #ffffff;
+}
+
+.fundo-c{
+    position: absolute;
+width: 115px;
+height: 31px;
+left: 591px;
+top: 115px;
+
+background: #818181;
+border: 3px solid #0093DD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nome-c{
+    position: absolute;
+width: 104px;
+height: 18px;
+left: 5px;
+top: 5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 19px;
+
+color: #ffffff;
+}
+
+.fundo-p{
+    position: absolute;
+width: 128px;
+height: 31px;
+left: 720px;
+top: 115px;
+
+background: #818181;
+border: 3px solid #0093DD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nome-p{
+    position: absolute;
+width: 118px;
+height: 18px;
+left: 5px;
+top: 5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+
+.fundo-l{
+    position: absolute;
+width: 877px;
+height: 72px;
+left: 13px;
+top: 15px;
+
+background:#E3E0E0;
+}
+
+.nome-l{
+    position: absolute;
+width: 270px;
+height: 39px;
+left: 212px;
+top: 15px;
+}
+
+.nome-t{
+    position: absolute;
+width: 228px;
+height: 39px;
+left: 570px;
+top: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #423D3D;
+}
+
+.logo-g{
+    position: absolute;
+width: 87px;
+height: 72px;
+left: 890px;
+top: 30px;
+
+background: url(/img/galo.jpg);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.logo-c{
+    position: absolute;
+width: 67px;
+height: 67px;
+top: 38px;
+left: 15px;
+
+background: url(logo_cya.png);
+}
+
+.fundor{
+    position: absolute;
+width: 115px;
+height: 31px;
+left: 61px;
+top: 170px;
+
+background: #818181;
+border: 3px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nomer{
+    position: absolute;
+width: 112px;
+height: 18px;
+left: 5px;
+top: 5px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 19px;
+
+color: #ffffff;
+}
+
+.fundot{
+    position: absolute;
+width: 130px;
+height: 31px;
+left: 187px;
+top: 170px;
+
+background: #818181;
+border: 3px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nomet{
+    position: absolute;
+    width: 131px;
+    height: 18px;
+    left: 5px;
+    top: 5px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+}
+
+.fundov{
+    position: absolute;
+    width: 115px;
+    height: 31px;
+    left: 336px;
+    top: 170px;
+    
+    background: #818181;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nomev{
+    position: absolute;
+    width: 79px;
+    height: 18px;
+    left: 17px;
+    top: 5px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+}
+
+.fundop{
+    position: absolute;
+    width: 115px;
+    height: 31px;
+    left: 471px;
+    top: 170px;
+    
+    background: #818181;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nomep{
+    position: absolute;
+    width: 60px;
+    height: 18px;
+    left: 27px;
+    top: 5px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+}
+
+.fundodata{
+    box-sizing: border-box;
+
+position: absolute;
+width: 112px;
+height: 28px;
+left: 29px;
+top: 295px;
+
+background: #D9D9D9;
+border: 2px solid #000000;
+}
+
+.nomedata{
+    position: absolute;
+width: 56px;
+height: 24px;
+left: 25px;
+top: 1px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.fundohora{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 90px;
+    height: 28px;
+    left: 145px;
+    top: 295px;
+    
+    background: #D9D9D9;
+    border: 2px solid #000000;
+}
+
+.nomehora{
+    position: absolute;
+    width: 61px;
+    height: 24px;
+    left: 15px;
+    top: 1px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.fundoevento{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 194px;
+    height: 28px;
+    left: 238px;
+    top: 295px;
+    
+    background: #D9D9D9;
+    border: 2px solid #000000;
+}
+
+.nomeevento{
+    position: absolute;
+    width: 85px;
+    height: 24px;
+    left: 50px;
+    top: 1px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.fundosituacao{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 154px;
+    height: 28px;
+    left: 438px;
+    top: 295px;
+    
+    background: #D9D9D9;
+    border: 2px solid #000000;
+}
+
+.nomesituacao{
+    position: absolute;
+    width: 109px;
+    height: 24px;
+    left: 25px;
+    top: 1px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;    
+}
+
+.eclipse2{
+    position: absolute;
+width: 106px;
+height: 103px;
+left: 853px;
+top: 275px;
+
+background: #CE2B2B;
+transform: rotate(180deg);
+}
+
+.eclipse1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 210px;
+height: 210px;
+left: 643px;
+top: 171px;
+
+background: #C5F212;
+border: 2.5px solid #000000;
+}
+
+.piechart {
+    margin-top: 300px;
+    display: block;
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 643px;
+    top: 1px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: conic-gradient( 
+        rgb(236, 7, 7) 0 90deg, 
+        rgb(229, 255, 0) 0);
+}
+
+body,
+.piechart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eclosao{
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    left: 754px;
+    top: 400px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+
+    text-decoration: none;
+}
+
+.tempo{
+    position: absolute;
+width: 42px;
+height: 24px;
+left: 688px;
+top: 330px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
